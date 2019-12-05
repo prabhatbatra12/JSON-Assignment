@@ -1,0 +1,60 @@
+{ "items" : [
+    {
+      "productName": "A home mushroom farm",
+      "productDescription" : "Grow your own fungus right at home",
+      "cost" : 22.85,
+      "features" : [
+        "Oyster Mushrooms In 10 days",
+        "ORGANIC MUSHROOM GROWING KIT"
+      ],
+      "image": "/mushroom.jpg"
+    },
+
+    {
+      "productName": "Bacon-scented mustache",
+      "productDescription" : "Smell bacon all day in peace",
+      "cost" : 4.07,
+      "features" : [
+        "Dimesion : 7.1 x 6.1 x 0.2 inches",
+        "Synthetic hair",
+        "Wear while woodworking, fishing or internalizing your emotions"
+      ],
+      "image": "/bacon.jpg"
+    },
+
+    {
+      "productName": "A desktop refrigerator",
+      "productDescription" : "Single refrigerated beverage",
+      "cost" : 36.26,
+      "features" : [
+        "Can go to low as 5 degree C",
+        "Small easy to carry",
+        "Comes in different colors"
+      ],
+      "image": "/fridge.jpg"
+    },
+
+    {
+      "productName": "A pizza hat",
+      "productDescription" : "Everyone's life-long desire of wearing pizza atop their head",
+      "cost" : 20.00,
+      "features" : [
+        "Made from cotton",
+        "Light weight",
+        "Hand made"
+      ],
+      "image": "/hat.jpg"
+    },
+
+    {
+      "productName": "Dill pickle lip balm",
+      "productDescription" : "Archie McPhee Handi Squirrel",
+      "cost" : 12.00,
+      "features" : [
+        "Unisex Gifts",
+        "Weight :  1.6 ounces "
+      ],
+      "image": "/lip-balm.jpg"
+    }
+  ]
+}
